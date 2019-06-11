@@ -1,0 +1,13 @@
+.jumbotron{
+	background-image: url(../img/cactus.jpg);
+	background-size: cover;
+}
+
+.introtext{
+	color: #fff;
+	background-color: rgba(0,0,0,0.50);
+	margin: 0 auto;
+	width: 50%;
+	text-align: center;
+	padding: 1em;
+}
